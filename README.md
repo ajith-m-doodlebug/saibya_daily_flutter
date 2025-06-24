@@ -71,5 +71,3 @@ flutter run --release
 2. **Add Log** - Create daily wellness entries
 3. **View Logs** - Historical data view
 4. **Statistics** - Weekly averages and trends
-
-# saibya_daily_flutter
